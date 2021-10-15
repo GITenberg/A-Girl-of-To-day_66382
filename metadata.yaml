@@ -1,0 +1,45 @@
+_repo: A-Girl-of-To-day_66382
+_version: 0.0.1
+alternative_title: A Girl of Today
+contributor:
+  illustrator:
+    agent_name: Hammond, Gertrude Demain
+    aliases:
+    - Hammond, G. Demain
+    - Hammond, G. M. D.
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '34646'
+    url: http://www.gutenberg.org/2009/agents/34646
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Demain_Hammond
+creator:
+  author:
+    agent_name: Adams, Ellinor Davenport
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '53782'
+    url: http://www.gutenberg.org/2009/agents/53782
+    wikipedia: https://en.wikipedia.org/wiki/Ellinor_Davenport_Adams
+description: ''
+gutenberg_issued: '2021-09-26'
+identifiers:
+  gutenberg: '66382'
+language: en
+pgterms:marc905: 20200723080413adams
+pgterms:marc906: '1899'
+pgterms:marc907: GB
+production_note: Juliet Sutherland, SF2001, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United Kingdom :Blackie & Son, Limited,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children -- Societies and clubs -- Juvenile fiction'
+- GITenberg
+title: A Girl of To-day
+url: http://www.gutenberg.org/ebooks/66382
