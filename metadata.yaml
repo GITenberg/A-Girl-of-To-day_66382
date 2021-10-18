@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '34646'
     url: http://www.gutenberg.org/2009/agents/34646
     wikipedia: https://en.wikipedia.org/wiki/Gertrude_Demain_Hammond
+covers:
+- cover_type: archival
+  image_path: 66382-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, Ellinor Davenport
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53782
     wikipedia: https://en.wikipedia.org/wiki/Ellinor_Davenport_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66382#A-Girl-of-To-day
 gutenberg_issued: '2021-09-26'
 identifiers:
   gutenberg: '66382'
